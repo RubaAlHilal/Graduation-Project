@@ -22,7 +22,7 @@ For code editting:
 • Visual Studio Code
 
 For app testing:
-• android smart phone was used. You can use any updated with minimum android sdk version 19 or higher and iOS v.16.
+• Android smart phone was used. You can use any updated with minimum android sdk version 19 or higher and iOS v.16.
 User needs to download this app and connect with internet to enable the plant care system to transfare data between the system and the application.
 
 Methods : 
@@ -30,6 +30,6 @@ Methods :
 • Login
 • Authenticate user
 • Search
-• save plant measurement history
+• Save plant measurement history
 
 Licenses  :  Al Imam Mohammad Ibn Saud Islamic University
